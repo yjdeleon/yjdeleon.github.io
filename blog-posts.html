@@ -1,0 +1,22 @@
+---
+layout: page
+---
+
+
+<div class="page">
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+    </br>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></br></br>
+
+      
+    {% endfor %}
+    {{ paginator.total_posts }}
+  </ul>
+
+
+</div>
