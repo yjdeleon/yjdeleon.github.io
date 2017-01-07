@@ -2,6 +2,7 @@
 layout: post
 title:  "Hall of Faves: Twenty-Sixteen"
 date:   December, 12th 2016
+comments: true
 ---
 
 Twenty-sixteen was insane. But I made some discoveries along the way that helped me navigate this crazy year.

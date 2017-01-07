@@ -52,6 +52,7 @@
 <h2 class="title">{{page.title}}</h2>
 <h2 class="date">{{ page.date | date: "%-d %B %Y"}}</h2></br>
   {{content}}
+  {% include disqus.html %}
 
 </div>
 

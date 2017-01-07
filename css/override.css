@@ -27,7 +27,10 @@ position: fixed;
 padding-top: 11px;
 }
 
-
+#disqus_thread{
+  margin-left: 40px;
+    margin-right: 10px;
+}
 
 
 div .col-lg-12 #gray{
