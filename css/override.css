@@ -10,7 +10,7 @@ h2.title{
     margin-bottom:30px;
     margin-left:40px;
     font-size: 40px;
-    color:#EB9F9F;;
+    color:#EB9F9F;
    }
 
 body.page{
@@ -196,6 +196,15 @@ a{
   font-size: 18px;
   margin: 40px;
   color: #000;
+   }
+
+
+
+  p a{
+  font-family:'lora' ;
+  font-size: 18px;
+  color: #EB9F9F;
+    text-decoration: underline;
    }
 
   #div2 h1{
