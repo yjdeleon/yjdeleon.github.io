@@ -6,7 +6,7 @@ comments: true
 ---
 
 
-<img src="/img/travel.png">
+<img src="/img/travel.jpg" width="100%" height="auto">
 
 Last year I took my first ever 14-hour flight from New York City to Seoul. I greatly underestimated how slow time seems to move up in the air. Since I'm right in the middle of planning another trip with a long haul flight, I figured I'd share my tips and tricks. 
 
