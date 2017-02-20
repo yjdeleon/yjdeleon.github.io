@@ -24,7 +24,7 @@ Packing your carry-on is easy. There are plenty of tutorials online showing how 
 
 Ear plugs<br>
 Eye mask<br>
-Travel Pillow (<a href="https://www.amazon.com/dp/B004ZIKWJW/ref=twister_B01M32OMAM?_encoding=UTF8&psc=1" target="_blank"> Best $40 I've ever spent</a>)<br>
+Travel Pillow (<a href="https://www.amazon.com/dp/B004ZIKWJW/ref=twister_B01M32OMAM?_encoding=UTF8&psc=1" target="_blank">Best $40 I've ever spent</a>)<br>
 Blanket scarf<br>
 Toiletries bag<br>
 Baby Wipes<br>
