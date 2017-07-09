@@ -11,7 +11,7 @@ As Lil' Kim would say, "I've been gone for a minute now I'm back with the jump o
 
 <p><b>Muji:</b></p>
 
-<img src="/img/muji.jpg" width="100%" height="auto">
+<img src="/img/muji.JPG" width="100%" height="auto">
 <h6>
 <b>Products above</b>:<br>
 High Moisturizing Milk Lotion / Cleansing Oil / High Moisturizing Toning Water Toner / Milk Cleanser / All In One Essence / Compressed Facial Mask Sheets<br>
@@ -26,7 +26,7 @@ High Moisturizing Milk Lotion / Cleansing Oil / High Moisturizing Toning Water T
 
 <p><b>Don Quijote:</b></p>
 
-<img src="/img/donki.jpg" width="100%" height="auto">
+<img src="/img/donki.JPG" width="100%" height="auto">
 
 <h6>
 <b>Products above</b>:<br>
