@@ -68,8 +68,6 @@ Daiso Impact Eyelashes #07 / Daiso Makeup Brush Cleaner / It's Demo x Missha M M
 
 <p>There was an image that was surfacing around in the Asian beauty Instagram world. It was a picture of the cult classic Missha Cushion foundation with a limited edition Pokemon case. That's the only thing I walked into It's Demo for. I had to get my hands on it. First of all, the foundation itself is great on my skin and I ran out of it months back. Plus the packaging...I mean, COMMON, it's adorable. </p>
 
-<img src="/img/pokemon_cushion.JPG" width="100%" height="auto">
-
 <br>
 <!-- Korea -->
 
