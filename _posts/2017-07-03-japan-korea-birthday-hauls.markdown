@@ -46,6 +46,8 @@ Nivea Sun Protect Super Water Gel SPF 50+++ / DHC Lip Cream / Kose Lip Gel Magic
 <p>Japanese eye drops are on a whole new level. I even saw some slightly yellow tinted eyedrops to help combat the blue light from electronic devices...What a time to be alive, folks. I got the C3 eyedrops because of some great reviews online and I was totally sold on the cute and simple packaging. It makes wearing contacts actually enjoyable for me.</p>
 
 <p>Silicone sponges are all over Instagram and I caved into the hype. I like to apply my foundation all over with this and then go in with some fine detail work with a disposable foam sponge. Two thumbs up for ease of cleanliness.</p>
+
+<p>The Perfect Whip cleanser was advertised literally everywhere I went. Apparently, it's the number one best seller in Japan. And for good reason. A rich lather, delicate scent and squeaky clean feel without completely stripping your skin, color me impressed.</p>
 <br>
 
 
