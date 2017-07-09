@@ -1,3 +1,11 @@
+h6{
+  font-family:'lora' ;
+  font-size: 13px;
+  color: #666;
+  margin-left: 40px;
+  margin-right:40px;
+}
+
 h2.title{
     font-family: 'bebasneue';
     margin-left:40px;
