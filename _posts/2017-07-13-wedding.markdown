@@ -5,10 +5,11 @@ date:   July, 13th 2017
 comments: true
 ---
 <p>
-On May 25th, 2017, on our 6 year anniversary,  Vincent and I exchanged vows. </p>
+On May 25th, 2017, our 6 year anniversary,  Vincent and I exchanged vows. </p>
 
-<div class="video-container"><iframe width="300" height="300" src="https://www.youtube.com/embed/wpqlx7ZWYHQ" frameborder="0" allowfullscreen></iframe></div>
-
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wpqlx7ZWYHQ" frameborder="0" allowfullscreen></iframe>
+</div>
 <p>The morning started with me doing my hair and makeup at home.  Yes, I did it myself! </p>
 
 <p>Some would say, "Omg I could never" but your girl was determined to come out looking radiant AF! My everyday makeup is already fairly minimal. So doing a big glam look just didn't feel right for me. I still wanted to look like myself with an extra side of "Damnnnn, girl you lookin' good".</p>
@@ -21,44 +22,44 @@ On May 25th, 2017, on our 6 year anniversary,  Vincent and I exchanged vows. </p
 <p>Here's what I used that day:</p>
 
 <p><b>Skincare:</b></p>
-<h4>Mask: <a href="http://www.ulta.com/im-real-makgeolli-mask-sheet?productId=xlsImpprod12812991">Tony Moly I'm Real Makgeolli Mask Sheet</a></h4>
-<h4>Serum: <a href="http://www.innisfreeworld.com/product/productView.do?prdSeq=10001">Innisfree Green Tea Seed Serum</a></h4>
-<h4>Face Oil: <a href="http://www.kiehls.com/daily-reviving-concentrate/KHL497.html">Khiel's Daily Reviving Concentrate</a></h4>
-<h4>Moisturizer: <a href="http://www.kiehls.com/ultra-facial-cream/622.html?dwvar_622_size=1.7%20fl.%20oz.%20Jar#q=ultra+cream&start=1">Kiehl's Ultra Facial Cream</a></h4>
+<h4>Mask: <a target="_blank" href="http://www.ulta.com/im-real-makgeolli-mask-sheet?productId=xlsImpprod12812991">Tony Moly I'm Real Makgeolli Mask Sheet</a></h4>
+<h4>Serum: <a target="_blank" href="http://www.innisfreeworld.com/product/productView.do?prdSeq=10001">Innisfree Green Tea Seed Serum</a></h4>
+<h4>Face Oil: <a  target="_blank" href="http://www.kiehls.com/daily-reviving-concentrate/KHL497.html">Khiel's Daily Reviving Concentrate</a></h4>
+<h4>Moisturizer: <a  target="_blank" href="http://www.kiehls.com/ultra-facial-cream/622.html?dwvar_622_size=1.7%20fl.%20oz.%20Jar#q=ultra+cream&start=1">Kiehl's Ultra Facial Cream</a></h4>
 
 <p><b>Makeup:</b></p>
-<h4>Primer: <a href="http://www.twofacemall.com/en/clio-espoir-kiss-me/1477--clio-kill-cover-highest-wear-primer.html">Clio Kill Cover Moist Tone Up Primer </a></h4>
-<h4>Highlighting drops:<a href="http://www.sephora.com/reveal-concentrated-luminizing-drops-P411232"> Algenist Reveal Concentrated Lumizing Drops in Pearl</a></h4>
-<h4>Foundation:<a href="http://www.sephora.com/ultra-hd-invisible-cover-foundation-P398321?skuId=1708957&icid2=products%20grid:p398321"> Make Up For Ever Ultra HD Invisible Cover Foundation</a></h4>
-<h4>Concealer: <a href="https://kollectionk.com/products/apieu-moist-creamy-concealer-spf30-pa">A'PIEU Moist Creamy Concealer</a> </h4>
-<h4>Powder foundation: <a href="http://www.ulta.com/cocoa-powder-foundation?productId=xlsImpprod11771041">TOO FACED Cocoa Powder Foundation</a></h4>
-<h4>Eyebrows: <a href="http://www.innisfreeworld.com/product/productView.do?prdSeq=10513">Innisfree Eco Eyebrow Pencil in #2</a></h4>
+<h4>Primer: <a  target="_blank" href="http://www.twofacemall.com/en/clio-espoir-kiss-me/1477--clio-kill-cover-highest-wear-primer.html">Clio Kill Cover Moist Tone Up Primer </a></h4>
+<h4>Highlighting drops:<a  target="_blank" href="http://www.sephora.com/reveal-concentrated-luminizing-drops-P411232"> Algenist Reveal Concentrated Lumizing Drops in Pearl</a></h4>
+<h4>Foundation:<a  target="_blank" href="http://www.sephora.com/ultra-hd-invisible-cover-foundation-P398321?skuId=1708957&icid2=products%20grid:p398321"> Make Up For Ever Ultra HD Invisible Cover Foundation</a></h4>
+<h4>Concealer: <a  target="_blank" href="https://kollectionk.com/products/apieu-moist-creamy-concealer-spf30-pa">A'PIEU Moist Creamy Concealer</a> </h4>
+<h4>Powder foundation: <a  target="_blank" href="http://www.ulta.com/cocoa-powder-foundation?productId=xlsImpprod11771041">TOO FACED Cocoa Powder Foundation</a></h4>
+<h4>Eyebrows: <a  target="_blank" href="http://www.innisfreeworld.com/product/productView.do?prdSeq=10513">Innisfree Eco Eyebrow Pencil in #2</a></h4>
 <h4>Eyeshadows: MAC Stroke of Midnight Eyeshadow Palette * </h4>
-<h4>Lashes: <a href="https://kollectionk.com/products/etude-princess-eyelashes-false-eyelashes">ETUDE PRINCESS EYELASHES Volume #2</a></h4>
+<h4>Lashes: <a  target="_blank" href="https://kollectionk.com/products/etude-princess-eyelashes-false-eyelashes">ETUDE PRINCESS EYELASHES Volume #2</a></h4>
 <h4>Cream blush: H&M Cream Blusher in Sunny Peach * </h4>
-<h4>Powder blush: <a href="http://www.sephora.com/love-flush-long-lasting-16-hour-blush-P397519?skuId=1711894&keyword=P397519">TOO FACED Love Flush Long-Lasting 16-Hour Blush in "I Will Always Love You"</a></h4>
-<h4>Bronzer/Contour: <a href="http://www.sephora.com/chocolate-soleil-medium-deep-matte-bronzer-P229406">TOO FACED Chocolate Soleil Matte Bronzer</a></h4>
-<h4>Cheek Highlight: <a href="http://www.sephora.com/all-over-shimmer-duo-P279706?skuId=1312313&keyword=P279706">Stila All Over Shimmer Duo in Kitten</a></h4>
-<h4>Lip tint: <a href="hhttp://clubclio-en.com/product/peripera-peris-ink-the-velvet/406/">Peripera Ink Velvet in #8 Pretty Coral</a></h4>
-<h4>Lip Liner: <a href="http://www.maccosmetics.com/product/13852/340/products/makeup/lips/lip-pencil/lip-pencil#/shade/Subculture">Mac Lip Pencil in Subculture</a></h4>
+<h4>Powder blush: <a  target="_blank" href="http://www.sephora.com/love-flush-long-lasting-16-hour-blush-P397519?skuId=1711894&keyword=P397519">TOO FACED Love Flush Long-Lasting 16-Hour Blush in "I Will Always Love You"</a></h4>
+<h4>Bronzer/Contour: <a  target="_blank" href="http://www.sephora.com/chocolate-soleil-medium-deep-matte-bronzer-P229406">TOO FACED Chocolate Soleil Matte Bronzer</a></h4>
+<h4>Cheek Highlight: <a  target="_blank" href="http://www.sephora.com/all-over-shimmer-duo-P279706?skuId=1312313&keyword=P279706">Stila All Over Shimmer Duo in Kitten</a></h4>
+<h4>Lip tint: <a  target="_blank" href="hhttp://clubclio-en.com/product/peripera-peris-ink-the-velvet/406/">Peripera Ink Velvet in #8 Pretty Coral</a></h4>
+<h4>Lip Liner: <a target="_blank"  href="http://www.maccosmetics.com/product/13852/340/products/makeup/lips/lip-pencil/lip-pencil#/shade/Subculture">Mac Lip Pencil in Subculture</a></h4>
 <h4>Lipstick: <a href="https://www.chanel.com/en_US/fragrance-beauty/makeup-lipstick-rouge-coco-shine-119570">CHANEL ROUGE COCO SHINE in #54 Boy</a></h4>
-<h4>Lip gloss: <a href="http://www.sephora.com/sweet-peach-creamy-peach-oil-lip-gloss-P93984245?skuId=1894419&om_mmc=ppc-GG_378477159_27759166359_pla-181494470679_1894401_97594806279_9002009_c&country_switch=us&lang=en&gclid=CjwKEAjw16HLBRDF9L2UmOCH7U8SJAASVESo790q4AnaDSF6dAKL6EBgLQZRBj2U5d6XrNYQa5BEohoC2Vbw_wcB&gclsrc=aw.ds">TOO FACED Sweet Peach Creamy Lip Oil in Pure Peach</a></h4>
+<h4>Lip gloss: <a  target="_blank" href="http://www.sephora.com/sweet-peach-creamy-peach-oil-lip-gloss-P93984245?skuId=1894419&om_mmc=ppc-GG_378477159_27759166359_pla-181494470679_1894401_97594806279_9002009_c&country_switch=us&lang=en&gclid=CjwKEAjw16HLBRDF9L2UmOCH7U8SJAASVESo790q4AnaDSF6dAKL6EBgLQZRBj2U5d6XrNYQa5BEohoC2Vbw_wcB&gclsrc=aw.ds">TOO FACED Sweet Peach Creamy Lip Oil in Pure Peach</a></h4>
 
 <h6>* Product is discontinued or sold out.</h6>
 
-<p>As for hair, I knew I wanted really soft waves, so that was very easy to pull off.  I purchased a <a href="https://www.amazon.com/Remington-CI9538-Collection-Digital-Ceramic/dp/B0050QJHTO/ref=sr_1_2_a_it?ie=UTF8&qid=1500094884&sr=8-2&keywords=curling%2Biron&th=1">curling iron</a> on Amazon and practiced as much as I could. The day of, I set everything with <a href="http://www.sephora.com/wave-spray-P406665?skuId=1802107&om_mmc=ppc-GG_381463959_27499878159_pla-178161239079_1802107_97594823319_9002009_c&country_switch=us&lang=en&gclid=CjwKEAjw16HLBRDF9L2UmOCH7U8SJAASVESoWEHXkLP9DFRcCXTUzuC6nb21JAJbLkW5uti3-KImjRoC5EPw_wcB&gclsrc=aw.ds">OUAI wave spray</a> as well as <a href="http://www.sephora.com/medium-hair-spray-P411728?skuId=1837210&keyword=P411728"> OUAI medium hair spray</a>.</p>
+<p>As for hair, I knew I wanted really soft waves, so that was very easy to pull off.  I purchased a <a  target="_blank" href="https://www.amazon.com/Remington-CI9538-Collection-Digital-Ceramic/dp/B0050QJHTO/ref=sr_1_2_a_it?ie=UTF8&qid=1500094884&sr=8-2&keywords=curling%2Biron&th=1">curling iron</a> on Amazon and practiced as much as I could. The day of, I set everything with <a  target="_blank" href="http://www.sephora.com/wave-spray-P406665?skuId=1802107&om_mmc=ppc-GG_381463959_27499878159_pla-178161239079_1802107_97594823319_9002009_c&country_switch=us&lang=en&gclid=CjwKEAjw16HLBRDF9L2UmOCH7U8SJAASVESoWEHXkLP9DFRcCXTUzuC6nb21JAJbLkW5uti3-KImjRoC5EPw_wcB&gclsrc=aw.ds">OUAI wave spray</a> as well as <a href="http://www.sephora.com/medium-hair-spray-P411728?skuId=1837210&keyword=P411728"> OUAI medium hair spray</a>.</p>
 
 <img src="/img/wedding/dress.jpg">
 
-<p>I did not want to spend an arm and a leg on my wedding dress. I was wrapping my head around a look I wanted and I ended up ordering a beautiful gown online only to receive an email saying the dress was out of stock. Just my luck. So I continued my search for a couple more months with no success. Thankfully everything came together once I stumbled upon <a href="https://www.lulus.com/products/bariano-ocean-of-elegance-ivory-maxi-dress/225650.html">this dress</a>. It was airy, simple and beautiful. Coming in at $179, I was instantly sold. It was way below my original budget! </p>
+<p>I did not want to spend an arm and a leg on my wedding dress. I was wrapping my head around a look I wanted and I ended up ordering a beautiful gown online. Only to receive an email saying the dress was out of stock. Just my luck. So I continued my search for a couple more months with no success. Thankfully, everything came together once I stumbled upon <a  target="_blank" href="https://www.lulus.com/products/bariano-ocean-of-elegance-ivory-maxi-dress/225650.html">this dress</a>. It was airy, simple and beautiful. Coming in at $179, I was instantly sold. It was way below my original budget! </p>
 
 <img src="/img/wedding/shoes.jpg">
 
-<p>My gray strappy heels I got at Nordstrom months back really came through on my wedding day. These were well broken in and at a comfortable heel height which proved to be crucial. It was raining heavily that day and needed shoes that were reliable so I wouldn't slip but were still really cute.</p>
+<p>My gray strappy heels I got at Nordstrom months back really came through on my wedding day. These were well broken in and at a comfortable heel height which proved to be crucial. It was raining heavily that day and needed shoes that were reliable so I wouldn't slip but were still fabulous.</p>
 
 <img src="/img/wedding/bouquet.jpg">
 
-<p>Our amazing friend Nicole is a talented floral designer. She's is an inspiration. She followed her dreams and now has a kick ass business, Still by Nicole, making the most beautiful arrangements. With just one phone call and a few emails, she knew exactly what I was looking for.</p>
+<p>Our amazing friend Nicole is a talented floral designer. She's is an inspiration. She followed her dreams and now has a kick ass business, <a  target="_blank"  href="https://www.instagram.com/stillbynicole/">Still by Nicole</a>, making the most beautiful arrangements. With just one phone call and a few emails, she knew exactly what I was looking for.</p>
 
 <img src="/img/wedding/bout.jpg">
 
@@ -71,7 +72,7 @@ On May 25th, 2017, on our 6 year anniversary,  Vincent and I exchanged vows. </p
 
 <img src="/img/wedding/vincent_suit.jpg">
 
-<p>Vincent opted for a navy blue suit from Indochino. Indochino's suit customization is something he really enjoyed. From the color, lapels, stitching, pockets, vents, buttons, lining and monograms, it was truly made to order. Coming in at $400, We also really liked the price tag! 
+<p>Vincent opted for a navy blue suit from Indochino. Thier suit customization is something he really enjoyed. From the color, lapels, stitching, pockets, vents, buttons, lining and monograms, it was truly made to order. Coming in at $400, We also really liked the price tag! 
 </p>
 
 <p>Our ceremony took place at an event space right in the heart of Seaport District in Boston.</p> 
@@ -109,25 +110,23 @@ On May 25th, 2017, on our 6 year anniversary,  Vincent and I exchanged vows. </p
 
 <p><b>1) Being engaged is fucking awesome. Enjoy it.</b></p>
 
-<p>Vincent and I were engaged for a year and a half before we actually got married. In that time we focused on making our little apartment our home. A place where we can't wait to come back after work and unwind. We traveled all the way to Seoul. Then months later to Toronto. We spent a lot of time just being together and in a way getting to know one another in different circumstances. I fell in love with him all over again. 
+<p>Vincent and I were engaged for a year and a half before we actually got married. In that time we focused on making our little apartment our home. A place where we can't wait to come back after work and unwind. We traveled all the way to Asia. Then months later to Toronto. We spent a lot of time just being together and in a way getting to know one another in different circumstances. I fell in love with him all over again. 
 
 <p><b>2) Set a budget and stick to it.</b></p>
 
-<p>I live by one rule when it comes to money. "If I can't buy it now, I'm not buying it. Period. Not putting it on a credit card. If I really want it, I'll save for it." And that didn't change when it came to my wedding. Vincent and I spent a good amount of time saving up for the wedding and honeymoon. Having a tangible amount as a goal to save up for really helped me set a budget weekly and it was easy to stick to. 
+<p>I live by one rule when it comes to money. "If I can't buy it now, I'm not buying it. Period. Not putting it on a credit card. If I really want it, I'll save for it." And that didn't change when it came to my wedding. Vincent and I spent a good amount of time saving up for the wedding and honeymoon. Having a set dollar amount as a savings goal really helped me put aside for a weekly budget.
 
 <p><b>3) This is YOUR wedding. Not anyone else's. Do what makes you happy as a couple.</b></p>
 
-<p>Because we wanted to keep the wedding small we knew we had to make some tough decisions. There were times where I would second guess my choices but I had to stop and think back to the reason we wanted a small wedding in the first place. I learned that there's no right or wrong when it comes to weddings. We kept the ceremony small. But we're still planning to throw a party to celebrate with more friends and family later on to mark our 100 days of marriage. Ultimately, because we wanted to pay for everything, it was OUR decision. 
-
-<p>Don't want bridesmaids? Cool. Want to ball out anf treat your guests to a  7-course meal? Sure! Want a kid free wedding? By all means. Do what feels right for you. 
+<p>Because we wanted to keep the wedding small we knew we had to make some tough decisions. There were times where I would second guess my choices but I had to stop and think back to the reason we wanted a small wedding in the first place. I learned that there's no right or wrong when it comes to weddings. We kept the ceremony small. But we're still planning to throw a party to celebrate with more friends and family later on to mark our 100 days of marriage. Ultimately, because we wanted to pay for everything, it was OUR decision. Don't want bridesmaids? Cool. Want to ball out and treat your guests to a 7-course meal? Sure! Want a kid free wedding? By all means. Do what feels right for you. </p>
 
 <p><b>4) Remember, your wedding is only one day out of an entire lifetime together. Try not to stress it.</b></p>
 
-<p>There is an enormous pressure but on couples on their wedding day. That stress can feel so crushing at times. But to put it in perspective, it is just one day. Sure it's a special day, but you have an entire lifetime ahead to share with our significant other and more amazing days will come. If one thing goes wrong, that's ok. Keep your cool. At the very least it will add character to your wedding when you tell your grandkids the story. 
+<p>There is an enormous pressure but on couples on their wedding day. That stress can feel crushing at times. But to put it in perspective, it is just one day. Sure it's a special day, but you have an entire lifetime ahead to share with our significant other and more amazing days will come. If one thing goes wrong, that's ok. Keep your cool. At the very least it will add character to your wedding when you tell your grandkids the story. 
 
 <p><b>5) Share your plans with friends and family once things are finalized. </b></p>
 
-<p>Originally I had so many plans for my wedding. I wanted a destination wedding. Then things changed. And it happens...a lot! I wish I kept my mouth closed and waited until I had concrete plans and details to share with family. But parents are so curious to know what's going on that I thought just adding the words "we were thinking about maybe..." would clarify that my wedding was still in the planning stage but no. Wrap up the key points and then share the info. 
+<p>Originally I had so many plans for my wedding. I wanted a destination wedding. Then things changed. And it happens...a lot! I wish I kept my mouth closed and waited until I had concrete plans and details to share with family. But parents are so curious to know what's going on. Wrap up the major points and then share the info. 
 
 <p><b>6) Have a backup plan. Then a backup plan for that backup plan.</b></p>
 
@@ -144,18 +143,18 @@ On May 25th, 2017, on our 6 year anniversary,  Vincent and I exchanged vows. </p
 <p>Before this post is over I just want to say a <b>huge</b> thank you to our families, friends, and everyone who's sent their best wishes over to Vincent and I. We really appreciate it and it means so much to us. 
 
 <h2>Vendors:</h2>
-<h4>Flowers: <a href="http://stillbynicole.com/"> Still by Nicole </a></h4>
-<h4>Photos: <a href="http://www.peterlazzarinophoto.com/"> Peter Lazzarino Photography</a></h4>
-<h4>Video: <a href="hhttps://vimeo.com/daymianmejia"> Daymian Mejia</a></h4>
-<h4>Wedding Dress: <a href="https://www.lulus.com/products/bariano-ocean-of-elegance-ivory-maxi-dress/225650.html"> Lulu's</a></h4>
+<h4>Flowers: <a  target="_blank" href="http://stillbynicole.com/"> Still by Nicole </a></h4>
+<h4>Photos: <a  target="_blank" href="http://www.peterlazzarinophoto.com/"> Peter Lazzarino Photography</a></h4>
+<h4>Video: <a  target="_blank" href="hhttps://vimeo.com/daymianmejia"> Daymian Mejia</a></h4>
+<h4>Wedding Dress: <a  target="_blank" href="https://www.lulus.com/products/bariano-ocean-of-elegance-ivory-maxi-dress/225650.html"> Lulu's</a></h4>
 <h4>Bride Shoes: Charles by Charles David* </h4>
-<h4>Groom Suit: <a href="http://www.indochino.com/"> Indochino</a></h4>
+<h4>Groom Suit: <a  target="_blank" href="http://www.indochino.com/"> Indochino</a></h4>
 <h4>Groom Tie: Nordstrom Men's Shop*</h4>
-<h4>Groom Shoes: <a href="http://www.indochino.com/"> Johnson + Murphy</a></h4>
-<h4>Ceremony Venue: <a href="https://breather.com/locations/boston/374-congress"> Breather</a></h4>
-<h4>Officiant: <a href="http://www.marriedbypriscilla.com/">Priscilla Geaney </a> </h4>
-<h4>Reception/Lunch: <a href="http://www.toro-restaurant.com/">Toro</a></h4>
-<h4>Cupcakes: <a href="https://www.georgetowncupcake.com/Default.aspx"> Georgetown Cupcakes</a></h4>
+<h4>Groom Shoes: <a  target="_blank" href="http://www.indochino.com/"> Johnson + Murphy</a></h4>
+<h4>Ceremony Venue: <a  target="_blank" href="https://breather.com/locations/boston/374-congress"> Breather</a></h4>
+<h4>Officiant: <a  target="_blank" href="http://www.marriedbypriscilla.com/">Priscilla Geaney </a> </h4>
+<h4>Reception/Lunch: <a  target="_blank" href="http://www.toro-restaurant.com/">Toro</a></h4>
+<h4>Cupcakes: <a  target="_blank" href="https://www.georgetowncupcake.com/Default.aspx"> Georgetown Cupcakes</a></h4>
 
 <h6>* Product is discontinued or sold out.</h6>
 
