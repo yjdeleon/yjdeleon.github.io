@@ -7,6 +7,7 @@ comments: true
 <p>
 On May 25th, 2017, on our 6 year anniversary,  Vincent and I exchanged vows. </p>
 
+<div class="video-container"><iframe width="300" height="300" src="https://www.youtube.com/embed/wpqlx7ZWYHQ" frameborder="0" allowfullscreen></iframe></div>
 
 <p>The morning started with me doing my hair and makeup at home.  Yes, I did it myself! </p>
 
@@ -24,9 +25,6 @@ On May 25th, 2017, on our 6 year anniversary,  Vincent and I exchanged vows. </p
 <h4>Serum: <a href="http://www.innisfreeworld.com/product/productView.do?prdSeq=10001">Innisfree Green Tea Seed Serum</a></h4>
 <h4>Face Oil: <a href="http://www.kiehls.com/daily-reviving-concentrate/KHL497.html">Khiel's Daily Reviving Concentrate</a></h4>
 <h4>Moisturizer: <a href="http://www.kiehls.com/ultra-facial-cream/622.html?dwvar_622_size=1.7%20fl.%20oz.%20Jar#q=ultra+cream&start=1">Kiehl's Ultra Facial Cream</a></h4>
-
-
-
 
 <p><b>Makeup:</b></p>
 <h4>Primer: <a href="http://www.twofacemall.com/en/clio-espoir-kiss-me/1477--clio-kill-cover-highest-wear-primer.html">Clio Kill Cover Moist Tone Up Primer </a></h4>
@@ -46,9 +44,9 @@ On May 25th, 2017, on our 6 year anniversary,  Vincent and I exchanged vows. </p
 <h4>Lipstick: <a href="https://www.chanel.com/en_US/fragrance-beauty/makeup-lipstick-rouge-coco-shine-119570">CHANEL ROUGE COCO SHINE in #54 Boy</a></h4>
 <h4>Lip gloss: <a href="http://www.sephora.com/sweet-peach-creamy-peach-oil-lip-gloss-P93984245?skuId=1894419&om_mmc=ppc-GG_378477159_27759166359_pla-181494470679_1894401_97594806279_9002009_c&country_switch=us&lang=en&gclid=CjwKEAjw16HLBRDF9L2UmOCH7U8SJAASVESo790q4AnaDSF6dAKL6EBgLQZRBj2U5d6XrNYQa5BEohoC2Vbw_wcB&gclsrc=aw.ds">TOO FACED Sweet Peach Creamy Lip Oil in Pure Peach</a></h4>
 
-<h6>* Signifies product is discontinued or sold out.</h6>
+<h6>* Product is discontinued or sold out.</h6>
 
-<p>As for hair, I knew I wanted really soft waves, so that was very easy to pull off.  I purchased a <a href="https://www.amazon.com/Remington-CI9538-Collection-Digital-Ceramic/dp/B0050QJHTO/ref=sr_1_2_a_it?ie=UTF8&qid=1500094884&sr=8-2&keywords=curling%2Biron&th=1">curling iron</a> on Amazon and practiced as much as I could. The day of, I set everything with the <a href="http://www.sephora.com/wave-spray-P406665?skuId=1802107&om_mmc=ppc-GG_381463959_27499878159_pla-178161239079_1802107_97594823319_9002009_c&country_switch=us&lang=en&gclid=CjwKEAjw16HLBRDF9L2UmOCH7U8SJAASVESoWEHXkLP9DFRcCXTUzuC6nb21JAJbLkW5uti3-KImjRoC5EPw_wcB&gclsrc=aw.ds">OUAI wave</a> and <a href="http://www.sephora.com/medium-hair-spray-P411728?skuId=1837210&keyword=P411728"> OUAI medium hair spray</a>.</p>
+<p>As for hair, I knew I wanted really soft waves, so that was very easy to pull off.  I purchased a <a href="https://www.amazon.com/Remington-CI9538-Collection-Digital-Ceramic/dp/B0050QJHTO/ref=sr_1_2_a_it?ie=UTF8&qid=1500094884&sr=8-2&keywords=curling%2Biron&th=1">curling iron</a> on Amazon and practiced as much as I could. The day of, I set everything with <a href="http://www.sephora.com/wave-spray-P406665?skuId=1802107&om_mmc=ppc-GG_381463959_27499878159_pla-178161239079_1802107_97594823319_9002009_c&country_switch=us&lang=en&gclid=CjwKEAjw16HLBRDF9L2UmOCH7U8SJAASVESoWEHXkLP9DFRcCXTUzuC6nb21JAJbLkW5uti3-KImjRoC5EPw_wcB&gclsrc=aw.ds">OUAI wave spray</a> as well as <a href="http://www.sephora.com/medium-hair-spray-P411728?skuId=1837210&keyword=P411728"> OUAI medium hair spray</a>.</p>
 
 <img src="/img/wedding/dress.jpg">
 
@@ -60,20 +58,21 @@ On May 25th, 2017, on our 6 year anniversary,  Vincent and I exchanged vows. </p
 
 <img src="/img/wedding/bouquet.jpg">
 
-<p>Our amazing friend Nicole is a talented AF floral designer. She's is an inspiration. She followed her dreams and now has a kick ass business, Still by Nicole, making the most beautiful arrangements. With just one phone call and a few emails, she knew exactly what I was looking for.</p>
-
-
-<p>At the same time I was getting ready, Vincent was at the Envision hotel. If you're in the greater Boston area or are going to be soon, check it out. It recently opened in spring 2017 and is super nice.  </p>
-
-<img src="/img/wedding/vincent_tie.jpg">
-
-<p>His tie...HIS TIE! We found this at our local Nordstrom and knew it was the one. So lovely, right?</p>
-
-
+<p>Our amazing friend Nicole is a talented floral designer. She's is an inspiration. She followed her dreams and now has a kick ass business, Still by Nicole, making the most beautiful arrangements. With just one phone call and a few emails, she knew exactly what I was looking for.</p>
 
 <img src="/img/wedding/bout.jpg">
 
-<p>Vincent opted for a navy blue custom made suit from Indochino. The color complemented the boutineer perfectly.</p>
+
+<p>At the same time I was getting ready, Vincent was at the Envision hotel. If you're in the greater Boston area or are going to be soon, check it out. It recently opened in spring 2017 and its super nice.  </p>
+
+<img src="/img/wedding/vincent_tie.jpg">
+
+<p>His tie...HIS TIE! We found this at our local Nordstrom and knew it was the one.</p>
+
+<img src="/img/wedding/vincent_suit.jpg">
+
+<p>Vincent opted for a navy blue suit from Indochino. Indochino's suit customization is something he really enjoyed. From the color, lapels, stitching, pockets, vents, buttons, lining and monograms, it was truly made to order. Coming in at $400, We also really liked the price tag! 
+</p>
 
 <p>Our ceremony took place at an event space right in the heart of Seaport District in Boston.</p> 
 
@@ -89,6 +88,7 @@ On May 25th, 2017, on our 6 year anniversary,  Vincent and I exchanged vows. </p
 <p>After our vows, we took some more quick pics with our friends and family, notably our little baby girl, Cammy. That's right. A cat at a wedding. </p>
 <img src="/img/wedding/cammy.jpg">
 <img src="/img/wedding/lil_family.jpg">
+<img src="/img/wedding/lil_family_2.jpg">
 
 <p>Next stop was our reception/lunch! </p>
 <img src="/img/wedding/toro_menu.jpg">
@@ -105,7 +105,7 @@ On May 25th, 2017, on our 6 year anniversary,  Vincent and I exchanged vows. </p
 <img src="/img/wedding/cupcakes.jpg">
 <img src="/img/wedding/cupcake_kiss.jpg">
 
-<p>What I learned from being a bride:</p>
+<h2>What I learned from being a bride:</h2>
 
 <p><b>1) Being engaged is fucking awesome. Enjoy it.</b></p>
 
@@ -117,9 +117,9 @@ On May 25th, 2017, on our 6 year anniversary,  Vincent and I exchanged vows. </p
 
 <p><b>3) This is YOUR wedding. Not anyone else's. Do what makes you happy as a couple.</b></p>
 
-<p>Because we wanted to keep the wedding small we knew we had to make some tough decisions. There were times where I would second guess my choices but I had to stop and think back to the reason we wanted a small wedding in the first place. I learned that there's no right or wrong when it comes to weddings. We kept the ceremony small. But we're still planning to throw a party to celebrate with more friends and family later on to mark our 100 days of marriage. Ultimately because we wanted to pay for everything, it was OUR decision. 
+<p>Because we wanted to keep the wedding small we knew we had to make some tough decisions. There were times where I would second guess my choices but I had to stop and think back to the reason we wanted a small wedding in the first place. I learned that there's no right or wrong when it comes to weddings. We kept the ceremony small. But we're still planning to throw a party to celebrate with more friends and family later on to mark our 100 days of marriage. Ultimately, because we wanted to pay for everything, it was OUR decision. 
 
-<p>Do what feels right for you. Don't want bridesmaids? Cool. Want to treat your guests to a  7-course meal? Sure! Want a kid free wedding? By all means. No one should be stopping you on what you want on your wedding day.
+<p>Don't want bridesmaids? Cool. Want to ball out anf treat your guests to a  7-course meal? Sure! Want a kid free wedding? By all means. Do what feels right for you. 
 
 <p><b>4) Remember, your wedding is only one day out of an entire lifetime together. Try not to stress it.</b></p>
 
@@ -137,27 +137,27 @@ On May 25th, 2017, on our 6 year anniversary,  Vincent and I exchanged vows. </p
 
 <p><b>7) Take the day before your wedding off.</b></p>
 
-<p>Ok, this is a big one. I thought, "Yeah I'm literally having 15 guests. The wedding is so small. I don't need a day off to plan beforehand." I was so wrong. The day before my wedding was rough. I STILL WENT TO WORK because I was going on my honeymoon the next day after my wedding and had things to wrap up. I was going through a lot that day (see point 6 above) and on top of that I still needed to pick up the cupcakes, do my nails, my at home facial, I needed to give Cammy Cat a bath, clean the apartment, eat and sleep.  There are not enough hours in the day. I ended up sleeping for about two hours that night and feeling really lethargic on my wedding day. It also didn't help that I couldn't eat a thing because of the nerves. Take the day before your wedding off. Heck, do two days before the wedding if you can. Your body will thank you. 
+<p>Ok, this is a big one. I thought, "Yeah I'm literally having 15 guests. The wedding is so small. I don't need a day off to plan beforehand." I was so wrong. The day before my wedding was rough. I STILL WENT TO WORK because I was going on my honeymoon the next day after my wedding and had things to wrap up. I was going through a lot that day (see point about having multiple backup plans above) and on top of that I still needed to pick up the cupcakes, do my nails, my at home facial, I needed to give Cammy Cat a bath, clean the apartment, eat and sleep.  There are not enough hours in the day. I ended up sleeping for about two hours that night and feeling really lethargic on my wedding day. It also didn't help that I couldn't eat a thing because of the nerves. Take the day before your wedding off. Heck, do two days before the wedding if you can. Your body will thank you. 
 
 <p>Phew, hope that advice helps at least one of you out there.
 
-<p>Before this post is over I just want to say a huge thank you to our families, our friends, our vendors and everyone who's sent their best wishes over to Vincent and I. We really appreciate it and it means so much to us. 
+<p>Before this post is over I just want to say a <b>huge</b> thank you to our families, friends, and everyone who's sent their best wishes over to Vincent and I. We really appreciate it and it means so much to us. 
 
-<p><b>Vendors:</b></p>
-<h4>Flowers: Still by Nicole </h4>
-<h4>Photos: Peter Lazzarino Photography</h4>
-<h4>Video: Daymian Mejia</h4>
-<h4>Wedding dress: Lulus </h4>
-<h4>Bride Shoes: Charles by Charles David</h4>
-<h4>Groom Suit: Indochino</h4>
-<h4>Groom Tie: Nordstrom</h4>
-<h4>Groom Shoes: Johnson + Murphy</h4>
-<h4>Ceremony Venue: Breather</h4>
-<h4>Officiant: Priscilla Geaney  </h4>
-<h4>Reception/Lunch: Toro</h4>
-<h4>Cupcakes: Georgetown Cupcakes</h4>
+<h2>Vendors:</h2>
+<h4>Flowers: <a href="http://stillbynicole.com/"> Still by Nicole </a></h4>
+<h4>Photos: <a href="http://www.peterlazzarinophoto.com/"> Peter Lazzarino Photography</a></h4>
+<h4>Video: <a href="hhttps://vimeo.com/daymianmejia"> Daymian Mejia</a></h4>
+<h4>Wedding Dress: <a href="https://www.lulus.com/products/bariano-ocean-of-elegance-ivory-maxi-dress/225650.html"> Lulu's</a></h4>
+<h4>Bride Shoes: Charles by Charles David* </h4>
+<h4>Groom Suit: <a href="http://www.indochino.com/"> Indochino</a></h4>
+<h4>Groom Tie: Nordstrom Men's Shop*</h4>
+<h4>Groom Shoes: <a href="http://www.indochino.com/"> Johnson + Murphy</a></h4>
+<h4>Ceremony Venue: <a href="https://breather.com/locations/boston/374-congress"> Breather</a></h4>
+<h4>Officiant: <a href="http://www.marriedbypriscilla.com/">Priscilla Geaney </a> </h4>
+<h4>Reception/Lunch: <a href="http://www.toro-restaurant.com/">Toro</a></h4>
+<h4>Cupcakes: <a href="https://www.georgetowncupcake.com/Default.aspx"> Georgetown Cupcakes</a></h4>
 
-
+<h6>* Product is discontinued or sold out.</h6>
 
 
 
