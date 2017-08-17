@@ -43,7 +43,7 @@ Luna Mini</a>. It almost felt like an impulse buy. I didn't know if I made the r
 
 <p>A small amount of cleanser:</p>
 <img src="/img/cleansing/amount.JPG">
-<p>Pump, pump, pump it up! Voil&agrave; :</p>
+<p>Pump, pump, pump it up! Voil&agrave;:</p>
 <img src="/img/cleansing/foam.JPG">
 <p>So far after a month of using this combination, my skin is getting better and no more tiny makeup residue on my towels! </p>
 
