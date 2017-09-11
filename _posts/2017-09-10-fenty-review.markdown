@@ -7,9 +7,11 @@ comments: true
 
 <img src="/img/fenty/all.JPG">
 
-<p>Before I jump into my review, I just want to give credit where credit is due. I don't think I've ever been this excited for a makeup brand to launch. What really sold me was the diversity in her campaign. I wanted to test everything in person so I skipped the online launch. The Sephora I went to was fully stocked and I couldn't wait to get my hands on the products and fully have the Fenty Beauty experience.</p>
+<p>Before I jump into my review, I just want to give credit where credit is due. I don't think I've ever been this excited for a makeup brand to launch. What really sold me was the diversity in her campaign. I wanted to test everything in person so I skipped the online launch. The Sephora I went to was fully stocked and I couldn't wait to get my hands on the products and fully have the Fenty Beauty experience. I'm so glad I went in store.</p>
 
-<p>My first thought looking at the display...."Bruh, THE PACKAGING". Lets quickly review the attention to detail up in this piece, shall we? </p>
+<p>I walked in and saw at least 7 different folks looking at the Fenty Beauty display. All different. People with fair skin and fiery red hair, people with deep skin tones excited that they nailed picking out a shade of foundation on the first try. Young, old, tall, short, you name it. I had never seen anything like this before and it was such a wonderful experience. </p>
+
+<p>The display itself....Bruh, THE PACKAGING. Lets quickly review the attention to detail up in this piece, shall we? </p>
 
 <img src="/img/fenty/all_unboxed.JPG">
 
@@ -57,7 +59,7 @@ comments: true
 
 <p>I didn't do much except sit on the couch, reply to emails, write most of this blog post, watch some TV and clean the apartment. It defiantly held up again and did not get oily on me. </p>
 
-<p>Overall, I like this foundation. If you have dry skin, you might want to skip this one. My face is on the oily side but since I had hormonal acne issues this past week, I used products to dry out my spots. That lead to me having that patchiness so I probably won't be using this when my face is healing from PMS acne. It does oxidize so be mindful of that when picking up your shade. I suggest you get matched at Sephora, have an employee apply it on and run outside real quick, snap a photo or if you carry a mirror in your bag, even better. You'll be able to tell if you have a good match then since the lighting at some stores can be terrible. </p>
+<p>Overall, I like this foundation. If you have dry skin, you might want to skip this one. My face is on the oily side but since I had hormonal acne issues this past week, I used products to dry out my spots. That led to me having that patchiness so I probably won't be using this when my face is healing from PMS acne. It does oxidize so be mindful of that when picking up your shade. I suggest you get matched at Sephora, have an employee apply it on and run outside real quick, snap a photo or if you carry a mirror in your bag, even better. You'll be able to tell if you have a good match then since the lighting at some stores can be terrible. </p>
 
 <p>I was hoping this would be as good as my favorites like Make Up For Ever Ultra HD or Clio Kill Cover foundation that I can use no matter how good or bad my skin is. But it still is a very nice finish. I can't believe how well it kept my skin from being an oily mess. I will be reaching for this when my face isn't acting up. </p>
 
@@ -71,7 +73,7 @@ comments: true
 
 <p>I was suggested the Medium set based on skin tone. When Yaneli finished applying the foundation she first applied the Match Stix by rolling them on my face and taking in a smaller brush and blending them out. It didn't take long to realize that the brush just wasn't doing the trick. Instead, she opted for some clean fingers and lightly patting them in my cheeks. </p>
 
-<p>The colors that come in the Medium set are Bamboo (the concealer), Mocha (the contour shade), and Trippin (the highlight). </p>
+<p>The colors that come in the Medium set are Bamboo (the concealer), Mocha (the contour shade), and Trippin' (the highlight). </p>
 
 <p>Yaneli and I figured out that if you apply these bad boys like neapolitan ice cream ...DASSSS IT. It's flawless. Bamboo as the vanilla on the high points of my cheekbones, then the Trippin' shade as the strawberry middle acting as a blush and then mocha as the chocolate being my contour. </p>
 
@@ -94,7 +96,7 @@ I was so excited to see this line was carrying blotting papers. Because my skin 
 
 <p>After watching the video of a makeup artist using these on the Sephora product page, I can get a clean cut but I have to roll out a large amount of paper to do so.</p>
 
-<p>But I like the papers themselves. They're a beautiful color and I like that you can pick the size you want but the fact that I had such a hard time figuring this packaging out turned me off. I wanted to LOVE this product. I'm not sure if I'm gonna exchange this one (maybe I got a slightly defected item and should give it anoher try) or if I should just return it for a refund. </p>
+<p>I like the papers themselves. They're a beautiful color and I like that you can pick the size you want but the fact that I had such a hard time figuring this packaging out turned me off. I wanted to LOVE this product. I'm not sure if I'm gonna exchange this one (maybe I got a slightly defected item and should give it anoher try) or if I should just return it for a refund. </p>
 
 <p>Rating: 1 out of 5 :( </p>
 
